@@ -13,5 +13,71 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Resource Files\DataStructure">
+      <UniqueIdentifier>{53e49fcd-809b-449f-a382-680fe8058c57}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="datastructure\BinaryTree.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\bo1-1.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\bo2-1.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\func2-3.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\main1-1.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\main2-1.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\algo1-1.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\algo1-2.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\algo1-3.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\algo1-4.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\algo2-1.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="datastructure\algo2-2.cpp">
+      <Filter>Resource Files\DataStructure</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="datastructure\bo2-1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\c1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\c1-1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\c2-1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\func2-3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="datastructure\bo1-1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="datastructure\ReadMe.txt">
+      <Filter>Resource Files\DataStructure</Filter>
+    </Text>
   </ItemGroup>
 </Project>
